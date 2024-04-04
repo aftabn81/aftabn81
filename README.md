@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aftabn81 I am two parts GenAI developer, one part Data Scientist and one part Customer Obsessed PM.
+- 👋 Hi, I’m Noor Aftab [@aftabn81] two parts GenAI developer, one part Data Scientist and one part Customer Obsessed PM.
 - 👀 I’m interested in coding, colaborating, sharing the latest in GenAI
 - 🌱 I’m currently learning Agents, Pipelines and Foundational models.
 - 💞️ I’m looking to collaborate on  real world GenAI use cases
